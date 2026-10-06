@@ -1,0 +1,76 @@
+timestamp,student_name,score,category
+2026-10-06T13:19:39.230806,Alex Smith,75.0,Good
+2026-10-06T13:20:11.619112,Aisha Khan,75.0,Good
+2026-10-06T13:20:26.386970,Aisha Khan,75.0,Good
+2026-10-06T13:20:29.078942,Alex Smith,75.0,Good
+2026-10-06T13:20:36.681178,Aisha Khan,75.0,Good
+2026-10-06T13:20:43.021452,Sophia Miller,75.0,Good
+2026-10-06T13:22:41.284114,Sophia Miller,75.0,Good
+2026-10-06T13:27:14.954662,Aisha Khan,93.2,Excellent
+2026-10-06T13:27:19.330866,Lucas Silva,72.0,Good
+2026-10-06T13:27:23.235308,Aisha Khan,93.2,Excellent
+2026-10-06T13:27:25.946981,Alex Smith,80.9,Good
+2026-10-06T13:27:35.150837,Lucas Silva,72.0,Good
+2026-10-06T13:27:39.281791,Alex Smith,80.9,Good
+2026-10-06T13:27:42.279486,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:27:45.385937,Alex Smith,80.9,Good
+2026-10-06T13:27:52.414962,Aisha Khan,93.2,Excellent
+2026-10-06T13:28:10.193252,Alex Smith,80.9,Good
+2026-10-06T13:29:36.165587,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:30:22.322189,Alex Smith,80.9,Good
+2026-10-06T13:30:26.441196,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:30:34.335651,Lucas Silva,72.0,Good
+2026-10-06T13:31:56.693257,Aisha Khan,93.2,Excellent
+2026-10-06T13:32:01.869699,Aisha Khan,93.2,Excellent
+2026-10-06T13:32:50.748524,Aisha Khan,93.2,Excellent
+2026-10-06T13:33:19.754522,Aisha Khan,70.3,Good
+2026-10-06T13:33:53.867227,Lucas Silva,72.0,Good
+2026-10-06T13:33:59.682344,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:34:37.278357,Aisha Khan,93.2,Excellent
+2026-10-06T13:34:37.754331,Aisha Khan,93.2,Excellent
+2026-10-06T13:34:42.499579,Lucas Silva,72.0,Good
+2026-10-06T13:34:47.730308,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:35:01.860442,Aisha Khan,93.2,Excellent
+2026-10-06T13:35:50.688669,vamsi,7.9,Needs Improvement
+2026-10-06T13:37:33.534790,Aisha Khan,93.2,Excellent
+2026-10-06T13:39:09.745961,Aisha Khan,93.2,Excellent
+2026-10-06T13:39:12.465138,Aisha Khan,93.2,Excellent
+2026-10-06T13:41:12.285172,Aisha Khan,93.2,Excellent
+2026-10-06T13:41:17.707886,Lucas Silva,72.0,Good
+2026-10-06T13:41:19.669561,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:44:37.226513,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:46:24.219865,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:47:49.689169,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:50:16.635816,Sophia Miller,36.4,Needs Improvement
+2026-10-06T13:53:12.222528,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:02:28.314217,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:05:14.417867,Alex Smith,80.9,Good
+2026-10-06T14:05:35.196548,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:05:44.923421,Aisha Khan,93.2,Excellent
+2026-10-06T14:13:40.103422,Lucas Silva,72.0,Good
+2026-10-06T14:13:44.451734,Aisha Khan,93.2,Excellent
+2026-10-06T14:13:52.688960,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:16:04.784169,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:16:36.919757,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:20:16.470879,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:20:27.055293,Alex Smith,80.9,Good
+2026-10-06T14:20:32.781373,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:21:07.884063,Lucas Silva,72.0,Good
+2026-10-06T14:23:36.938945,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:24:09.356603,Lucas Silva,72.0,Good
+2026-10-06T14:24:24.214398,Lucas Silva,72.0,Good
+2026-10-06T14:24:26.390583,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:25:18.834064,Aisha Khan,93.2,Excellent
+2026-10-06T14:25:21.811512,Lucas Silva,72.0,Good
+2026-10-06T14:25:23.672249,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:35:56.767457,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:50:41.175675,Aisha Khan,93.2,Excellent
+2026-10-06T14:50:52.528648,Sophia Miller,36.4,Needs Improvement
+2026-10-06T14:50:59.118829,Aisha Khan,93.2,Excellent
+2026-10-06T14:53:50.633378,Aisha Khan,93.2,Excellent
+2026-10-06T14:55:03.739944,Aisha Khan,93.2,Excellent
+2026-10-06T14:55:08.456804,Aisha Khan,93.2,Excellent
+2026-10-06T14:55:27.912478,Lucas Silva,72.0,Good
+2026-10-06T14:55:41.674433,Sophia Miller,36.4,Needs Improvement
+2026-10-06T23:27:30.483722,Alex Smith,80.9,Good
+2026-10-06T23:27:34.682231,Sophia Miller,36.4,Needs Improvement
